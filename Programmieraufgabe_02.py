@@ -2,14 +2,16 @@
 
 # Python Programmieraufgabe 02
 # 
-# Given an array of integers, return a new array such that each element at index i 
-# of the new array is the product of all the numbers in the original array except the one at i.
+# Programmieraufgabe:
+#-----------------------------
+# Man hat als Input einen Array von Integer. Schreibe eine Funktion welche einen neuen Array von Integer zurück gibt. 
+# Die einzelnen Elemente des Arrays sollen das Produkt von allen Zahlen des urspünglichen Arrays sein, augenommen der 
+# Zahl welche am selben Index ist.
 #       
-# For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. 
-# If our input was [3, 2, 1], the expected output would be [2, 3, 6].
+# Zum Beispiel, für den Input [1, 2, 3, 4, 5] wäre das Ergebnis [120, 60, 40, 30, 24]. 
+# Für den Input [3, 2, 1] wäre das Ergebnis [2, 3, 6].
 #
-# Follow-up: what if you can't use division? 
-#
+# Zusatz: Ist es möglich ohne Division zu lösen?
 #
 #    author: python-programmieren.com
 
