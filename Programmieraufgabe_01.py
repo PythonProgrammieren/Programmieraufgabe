@@ -1,10 +1,12 @@
 """
-Coding Problem:
+Programmieraufgabe:
 ----------------------
-Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
-For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
-                   
-In contrast to the problem the pair is returned. 
+Angenommen man hat 2 Input für eine Funktion. Der erste Input ist eine Liste von Integer. 
+Der zweite Input ist ein Integer k. Schreibe eine Funktion welche checkt ob 2 Zahlen innerhalb der Liste
+addiert k ergeben.
+
+Zum Beispiel [10, 15, 3, 7] und k = 17, sollte true sein da since 10 + 7 = 17.
+                    
 @author: Python-Programmieren.com
 """
 
